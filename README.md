@@ -6,7 +6,7 @@
     <a href='https://scholar.google.com/citations?hl=zh-CN&user=lvx5k9cAAAAJ' target='_blank'><strong>Zhangjun Zhou</strong></a><sup> 2</sup>,&thinsp;
     <a href='https://scholar.google.com.hk/citations?user=yXycwhIAAAAJ&hl=zh-CN&oi=sra' target='_blank'><strong>Diandian Guo</strong></a><sup> 1</sup>,&thinsp;
     <a href='https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en' target='_blank'><strong>Zhixi Li</strong></a><sup> 2,3</sup>,&thinsp;
-  <a href='https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en' target='_blank'><strong>Jing Qin</strong></a><sup> 2</sup>,&thinsp;
+  <a href='https://harry-qinjing.github.io/' target='_blank'><strong>Jing Qin</strong></a><sup> 2</sup>,&thinsp;
     <a href='https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=en' target='_blank'><strong>Bo Du</strong></a><sup> 4*</sup>,&thinsp;
     <a href='https://scholar.google.com.hk/citations?user=OFdytjoAAAAJ&hl=zh-CN&oi=sra' target='_blank'><strong> Pheng-Ann Heng</strong></a><sup> 1</sup>
 </div>
