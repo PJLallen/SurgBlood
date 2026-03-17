@@ -69,7 +69,7 @@ Official Implementation of CVPR2026 paper "Synergistic Bleeding Region and Point
 ### Download the datasets and annotation files
 
 - SurgBlood: **[Google](https://drive.google.com/file/d/1MIVCH7sLOzFwrzEDjKs2PSba7UpzLG7I/view?usp=sharing).**
-- 
+
  ### Register datasets
 1. Download the datasets and put them in the same folder. To match the folder name in the dataset mappers, you'd better not change the folder names, its structure may be:
 ```
@@ -84,8 +84,12 @@ Official Implementation of CVPR2026 paper "Synergistic Bleeding Region and Point
             ├── videos-image
             ├── videos-mask
             ├── videos-point
-```
+2. For convenience, we provide a test dataset folder containing four types of bleeding：
 
+```
+<div align="center">
+  <img src="assets/Supp_Data_V1_page-0001.jpg" width="1000" alt="dataset-expample" />
+</div>
 
 
 ## Pre-trained models :
@@ -93,17 +97,21 @@ Official Implementation of CVPR2026 paper "Synergistic Bleeding Region and Point
 - Download the pre-trained weights on SurgBlood: **[Google](https://drive.google.com/file/d/1Xw3Px0w2KVKY6IzzdY6fRjjHRLiI5is-/view?usp=sharing).**
 
 ## Visualization results &#x26A1;
-The visual results of  **SOTAs** on **SurgBlood test set**.
+The visual results of  **SOTAs** on **SurgBlood test set**: **[Google](https://drive.google.com/file/d/1XrC6q8BftPLTIq8gLe7YT0uyQbWqRmxI/view?usp=sharing).**
+
+
 
 ## Usage
 ### Train&Test
-- To train our BlooDet on single GPU by following command,the trained models will be saved in savePath folder. You can modify datapath if you want to run your own datases.
+- To train and evaluate our BlooDet on single GPU by following command,the trained models will be saved in savePath folder. You can modify datapath if you want to run your own datases.
 ```shell
-bash train.sh
+bash trainAndEvaluate.sh
 ```
-- To test and evaluate our BlooDet on SurgBlood:
+- Alternatively, to test or evaluate BlooDet on SurgBlood:
 ```shell
-bash test.sh
+python test.py
+bash evaluate.sh
+
 ```
 
 ## Acknowledgement
