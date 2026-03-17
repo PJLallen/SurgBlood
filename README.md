@@ -67,9 +67,24 @@ Official Implementation of CVPR2026 paper "Synergistic Bleeding Region and Point
 
 ## Dataset preparation :fire:
 ### Download the datasets and annotation files
- 
-1. Download the datasets and put them in the same folder. To match the folder name in the dataset mappers, you'd better not change the folder names, its structure may be:
 
+- SurgBlood: **[Google](https://drive.google.com/file/d/1MIVCH7sLOzFwrzEDjKs2PSba7UpzLG7I/view?usp=sharing).**
+- 
+ ### Register datasets
+1. Download the datasets and put them in the same folder. To match the folder name in the dataset mappers, you'd better not change the folder names, its structure may be:
+```
+    DATASET_ROOT/
+    ├── SurgBlood
+       ├── train
+            ├── videos-image
+            ├── videos-mask
+            ├── videos-mask-edge
+            ├── videos-point
+       ├── test
+            ├── videos-image
+            ├── videos-mask
+            ├── videos-point
+```
 
 
 
