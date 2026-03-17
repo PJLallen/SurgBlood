@@ -62,33 +62,39 @@ Official Implementation of CVPR2026 paper "Synergistic Bleeding Region and Point
 ## Environment preparation
 
 ### Requirements
+- **Please refer to the link: [SAM2](https://github.com/facebookresearch/sam2).**
+- You may need to install Apex using pip.
 
 ## Dataset preparation :fire:
-
 ### Download the datasets and annotation files
+ 
+1. Download the datasets and put them in the same folder. To match the folder name in the dataset mappers, you'd better not change the folder names, its structure may be:
 
-### Register datasets
+
+
 
 ## Pre-trained models :
 
 ## Visualization results &#x26A1;
+The visual results of  **SOTAs** on **SurgBlood test set**.
 
 ## Usage
-
 ### Train&Test
+- To train our BlooDet on single GPU by following command,the trained models will be saved in savePath folder. You can modify datapath if you want to run your own datases.
+```shell
+bash train.sh
+```
+- To test and evaluate our BlooDet on SurgBlood:
+```shell
+bash test.sh
+```
 
+## Acknowledgement
 
-
-
-
-
-
-
-
-
-
-
-
+[//]: # (This work is based on:)
+[//]: # (- [SAM2]&#40;https://github.com/facebookresearch/sam2;)
+[//]: # ()
+[//]: # (Thanks for their great work!)
 
 
 
