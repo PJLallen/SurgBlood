@@ -1,5 +1,5 @@
 <h1 align="center">Synergistic Bleeding Region and Point Detection  in  <br>
- Laparoscopic Surgical Videos (CVPR 2026)</h1>
+ Laparoscopic Surgical Videos [CVPR 2026]</h1>
 
 <div align='center'>
     <a href='https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en' target='_blank'><strong>Jialun Pei</strong></a><sup> 1</sup>,&thinsp;
@@ -116,8 +116,9 @@ python test.py
 bash evaluate.sh
 
 ```
-
+<!--
 ## Acknowledgement
+-->
 
 [//]: # (This work is based on:)
 [//]: # (- [SAM2]&#40;https://github.com/facebookresearch/sam2;)
