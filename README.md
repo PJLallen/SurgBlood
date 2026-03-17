@@ -59,7 +59,23 @@ Official Implementation of CVPR2026 paper "Synergistic Bleeding Region and Point
 
 
 
+## Environment preparation
 
+### Requirements
+
+## Dataset preparation :fire:
+
+### Download the datasets and annotation files
+
+### Register datasets
+
+## Pre-trained models :
+
+## Visualization results &#x26A1;
+
+## Usage
+
+### Train&Test
 
 
 
