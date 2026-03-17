@@ -41,6 +41,12 @@
 </div>
 -->
 
+<div align="center">
+        <video src="[https://github.com/user-attachments/assets/221ee6eb-9c1f-4bca-b233-7e6fe8b8103e](https://drive.google.com/file/d/1YXaTgptmmeg4f4cYvqc_illsineOq4Ck/view?usp=sharing)">
+</div>
+
+
+
 
 This repo is the official implementation of "[**Synergistic Bleeding Region and Point Detection in Laparoscopic Surgical Videos**](https://arxiv.org/abs/2503.22174)" (___CVPR 2026___).
 
