@@ -74,6 +74,8 @@ Official Implementation of CVPR2026 paper "Synergistic Bleeding Region and Point
 
 
 ## Pre-trained models :
+- Download the pre-training weights of sam2_hiera_base_plus: **[]().** 
+- Download the pre-trained weights on SurgBlood: **[Google]().**
 
 ## Visualization results &#x26A1;
 The visual results of  **SOTAs** on **SurgBlood test set**.
