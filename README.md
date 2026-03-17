@@ -7,7 +7,7 @@
     <a href='https://scholar.google.com.hk/citations?user=yXycwhIAAAAJ&hl=zh-CN&oi=sra' target='_blank'><strong>Diandian Guo</strong></a><sup> 1</sup>,&thinsp;
     <a href='https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en' target='_blank'><strong>Zhixi Li</strong></a><sup> 2,3</sup>,&thinsp;
   <a href='https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en' target='_blank'><strong>Jing Qin</strong></a><sup> 2</sup>,&thinsp;
-    <a href='https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en' target='_blank'><strong>Bo Du</strong></a><sup> 4</sup>,&thinsp;
+    <a href='https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=en' target='_blank'><strong>Bo Du</strong></a><sup> 4*</sup>,&thinsp;
     <a href='https://scholar.google.com.hk/citations?user=OFdytjoAAAAJ&hl=zh-CN&oi=sra' target='_blank'><strong> Pheng-Ann Heng</strong></a><sup> 1</sup>
 </div>
 
@@ -31,15 +31,12 @@
 
 
 
-<!--
 <div align="center">
-
-|            *DIS-Sample_1*        |             *DIS-Sample_2*        |
-| :------------------------------: | :-------------------------------: |
-| <img src="https://drive.google.com/thumbnail?id=1ItXaA26iYnE8XQ_GgNLy71MOWePoS2-g&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |
+  <img src="assets/Pipeline_v4_page-0001.jpg" width="700" alt="Pipeline_v4" />
+</div>
 
 </div>
--->
+
 
 <div align="center">
         <video src="[https://github.com/user-attachments/assets/221ee6eb-9c1f-4bca-b233-7e6fe8b8103e](https://drive.google.com/file/d/1YXaTgptmmeg4f4cYvqc_illsineOq4Ck/view?usp=sharing)">
@@ -50,6 +47,7 @@
 
 This repo is the official implementation of "[**Synergistic Bleeding Region and Point Detection in Laparoscopic Surgical Videos**](https://arxiv.org/abs/2503.22174)" (___CVPR 2026___).
 
+**Contact:** peijialun@gmail.com
 
 <!--
 # [CVPR][2026] SurgBlood
