@@ -1,2 +1,55 @@
+<h1 align="center">Synergistic Bleeding Region and Point Detection  in  <br>
+ Laparoscopic Surgical Videos (CVPR 2026)</h1>
+
+<div align='center'>
+    <a href='https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en' target='_blank'><strong>Jialun Pei</strong></a><sup> 1</sup>,&thinsp;
+    <a href='https://scholar.google.com/citations?hl=zh-CN&user=lvx5k9cAAAAJ' target='_blank'><strong>Zhangjun Zhou</strong></a><sup> 2</sup>,&thinsp;
+    <a href='https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en' target='_blank'><strong>Diandian Guo</strong></a><sup> 1</sup>,&thinsp;
+    <a href='https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en' target='_blank'><strong>Zhixi Li</strong></a><sup> 2,3</sup>,&thinsp;
+  <a href='https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en' target='_blank'><strong>Jing Qin</strong></a><sup> 2</sup>,&thinsp;
+    <a href='https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en' target='_blank'><strong>Bo Du</strong></a><sup> 4</sup>,&thinsp;
+    <a href='' target='_blank'><strong> Pheng-Ann Heng</strong></a><sup> 1</sup>
+</div>
+
+<div align='center'>
+   <sup>1 </sup>The Chinese University of Hong Kong&ensp; <sup>2 </sup>The Hong Kong Polytechnic University&ensp;  
+    <br />
+    <sup>3 </sup>Southern Medical University&ensp;  <sup>4 </sup>Wuhan University&ensp;  
+</div>
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href=''><img src='https://img.shields.io/badge/Journal-Paper-red'></a>&ensp; 
+  <a href=''><img src='https://img.shields.io/badge/arXiv-Paper-red'></a>&ensp; 
+  <a href=''><img src='https://img.shields.io/badge/中文版-Paper-red'></a>&ensp; 
+  <a href=''><img src='https://img.shields.io/badge/Page-Project-red'></a>&ensp; 
+  <a href=''><img src='https://img.shields.io/badge/GDrive-Stuff-green'></a>&ensp; 
+  <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-yellow'></a>&ensp; 
+  <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF-Space-blue'></a>&ensp; 
+  <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF-Model-blue'></a>&ensp; 
+</div>
+
+
+
+
+<!--
+<div align="center">
+
+|            *DIS-Sample_1*        |             *DIS-Sample_2*        |
+| :------------------------------: | :-------------------------------: |
+| <img src="https://drive.google.com/thumbnail?id=1ItXaA26iYnE8XQ_GgNLy71MOWePoS2-g&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |
+
+</div>
+-->
+
+
+This repo is the official implementation of "[**Synergistic Bleeding Region and Point Detection in Laparoscopic Surgical Videos**](https://arxiv.org/abs/2503.22174)" (___CVPR 2026___).
+
+
+<!--
 # [CVPR][2026] SurgBlood
 Official Implementation of CVPR2026 paper "Synergistic Bleeding Region and Point Detection in Laparoscopic Surgical Videos".
+-->
+
+
+
+
