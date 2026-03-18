@@ -86,7 +86,6 @@ Official Implementation of CVPR2026 paper "Synergistic Bleeding Region and Point
             ├── videos-point
 ```
 2. For convenience, we provide a test dataset folder containing four types of bleeding：
-**[Google](https://drive.google.com/file/d/118I-gr5Y3HsOE0gTjV1NYZdAQfcryVfp/view?usp=sharing).**
 
 
 
@@ -99,9 +98,10 @@ Official Implementation of CVPR2026 paper "Synergistic Bleeding Region and Point
 - Download the pre-training weights of sam2_base: **[sam2_hiera_base_plus](https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_base_plus.pt).** 
 - Download the pre-trained weights on SurgBlood: **[Google](https://drive.google.com/file/d/1Xw3Px0w2KVKY6IzzdY6fRjjHRLiI5is-/view?usp=sharing).**
 
+<!--
 ## Visualization results &#x26A1;
-The visual results of  **SOTAs** on **SurgBlood test set**: **[Google](https://drive.google.com/file/d/1XrC6q8BftPLTIq8gLe7YT0uyQbWqRmxI/view?usp=sharing).**
-
+The visual results of  **SOTAs** on **SurgBlood test set**:
+-->
 
 
 ## Usage
