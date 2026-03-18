@@ -105,7 +105,7 @@ The visual results of  **SOTAs** on **SurgBlood test set**: **[Google](https://d
 
 ## Usage
 ### Train&Test
-- To train and evaluate our BlooDet on single GPU by following command,the trained models will be saved in savePath folder. You can modify datapath if you want to run your own datases.
+- To train and evaluate our BlooDet on single GPU by following command,the trained models will be saved in savePath folder. You can modify datapath if you want to run your own datasets.
 ```shell
 bash trainAndEvaluate.sh
 ```
