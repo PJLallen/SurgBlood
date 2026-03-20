@@ -18,8 +18,8 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <a href=''>https://arxiv.org/abs/2503.22174<img src='https://img.shields.io/badge/Conference-Paper-red'></a>&ensp; 
-  <a href=''>https://arxiv.org/abs/2503.22174<img src='https://img.shields.io/badge/arXiv-Paper-red'></a>&ensp; 
+  <a href='https://arxiv.org/abs/2503.22174'><img src='https://img.shields.io/badge/Conference-Paper-red'></a>&ensp; 
+  <a href='https://arxiv.org/abs/2503.22174'><img src='https://img.shields.io/badge/arXiv-Paper-red'></a>&ensp; 
   <a href=''><img src='https://img.shields.io/badge/中文版-Paper-red'></a>&ensp; 
   <a href=''><img src='https://img.shields.io/badge/Page-Project-green'></a>&ensp; 
   <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-yellow'></a>&ensp; 
