@@ -49,11 +49,11 @@
 </div>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/PJLallen/SurgBlood/main/assets/Supp_Demo_for_BlooDet.mp4"><strong>Play or download the BlooDet supplementary demo video</strong></a>
+  <a href="https://raw.githubusercontent.com/PJLallen/SurgBlood/main/assets/Supp_Demo_for_BlooDet.mp4"><strong>Supplementary demo video for BlooDet</strong></a>
 </div>
 
 <div align="center">
-  GitHub README does not support reliable autoplay for repository-hosted videos, so the cover above opens the demo directly.
+  Click the cover to play the video directly in your browser or download the original file.
 </div>
 
 
