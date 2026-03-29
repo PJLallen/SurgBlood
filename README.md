@@ -43,17 +43,17 @@
 ## Supplementary Demo Video
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/PJLallen/SurgBlood/main/assets/Supp_Demo_for_BlooDet.mp4">
-    <img src="assets/bloodet-demo-cover.svg" width="900" alt="BlooDet supplementary demo video cover" />
+  <a href="https://youtu.be/wueRsI2lZjU">
+    <img src="assets/bloodet-demo-preview.gif" width="640" alt="BlooDet supplementary demo preview" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/PJLallen/SurgBlood/main/assets/Supp_Demo_for_BlooDet.mp4"><strong>Supplementary demo video for BlooDet</strong></a>
+  <a href="https://youtu.be/wueRsI2lZjU"><strong>Watch the full BlooDet supplementary demo on YouTube</strong></a>
 </div>
 
 <div align="center">
-  Click the cover to play the video directly in your browser or download the original file.
+  Click the GIF preview above to open the full demo video on YouTube.
 </div>
 
 
