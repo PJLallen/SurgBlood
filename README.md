@@ -47,10 +47,6 @@ This repo is the official implementation of "[**Synergistic Bleeding Region and 
 
 **Contact:** peijialun@gmail.com
 
-<div align="center">
-  <img src="assets/Pipeline_v4_page-0001.jpg" width="700" alt="Pipeline_v4" />
-</div>
-
 
 <!--
 # [CVPR][2026] SurgBlood
@@ -98,6 +94,9 @@ Official Implementation of CVPR2026 paper "Synergistic Bleeding Region and Point
 - Download the pre-training weights of sam2_base: **[sam2_hiera_base_plus](https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_base_plus.pt).** 
 - Download the pre-trained weights on SurgBlood: **[Google](https://drive.google.com/file/d/1Xw3Px0w2KVKY6IzzdY6fRjjHRLiI5is-/view?usp=sharing).**
 
+<div align="center">
+  <img src="assets/Pipeline_v4_page-0001.jpg" width="700" alt="Pipeline_v4" />
+</div>
 
 ## Visualization results &#x26A1;
 The visual results of  **SOTAs** on **SurgBlood test set**: **[Google](https://drive.google.com/file/d/1XrC6q8BftPLTIq8gLe7YT0uyQbWqRmxI/view?usp=sharing).**
