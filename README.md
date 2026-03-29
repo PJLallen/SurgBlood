@@ -40,8 +40,20 @@
 </div>
 
 
+## Supplementary Demo Video
+
 <div align="center">
-        <video src="[https://github.com/user-attachments/assets/221ee6eb-9c1f-4bca-b233-7e6fe8b8103e](https://drive.google.com/file/d/1YXaTgptmmeg4f4cYvqc_illsineOq4Ck/view?usp=sharing)">
+  <a href="assets/Supp_Demo_for_BlooDet.mp4">
+    <img src="assets/bloodet-demo-cover.svg" width="900" alt="BlooDet supplementary demo video cover" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="assets/Supp_Demo_for_BlooDet.mp4"><strong>Play or download the BlooDet supplementary demo video</strong></a>
+</div>
+
+<div align="center">
+  GitHub README does not support reliable autoplay for repository-hosted videos, so the cover above opens the demo directly.
 </div>
 
 
@@ -143,4 +155,3 @@ If this helps you, please cite this work:
       url={https://arxiv.org/abs/2503.22174}, 
 }
 ```
-

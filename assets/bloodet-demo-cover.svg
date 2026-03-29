@@ -1,0 +1,49 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="96" y1="60" x2="1104" y2="615" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A0E17"/>
+      <stop offset="0.5" stop-color="#7A1127"/>
+      <stop offset="1" stop-color="#16070D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FF6B81"/>
+      <stop offset="1" stop-color="#FFD166"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1200" height="675" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="28" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="675" rx="36" fill="#08090C"/>
+  <rect x="18" y="18" width="1164" height="639" rx="28" fill="url(#bg)"/>
+
+  <circle cx="1040" cy="120" r="110" fill="#FFFFFF" fill-opacity="0.06"/>
+  <circle cx="110" cy="560" r="130" fill="#FFFFFF" fill-opacity="0.05"/>
+  <path d="M134 130C250 70 388 60 516 115" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="10" stroke-linecap="round"/>
+  <path d="M150 176C255 129 379 125 483 171" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="6" stroke-linecap="round"/>
+
+  <g filter="url(#shadow)">
+    <rect x="88" y="92" width="1024" height="491" rx="28" fill="#0E1016" fill-opacity="0.64" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  </g>
+
+  <rect x="132" y="138" width="214" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="239" y="160" text-anchor="middle" fill="#FFF5F7" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">SUPPLEMENTARY DEMO</text>
+
+  <text x="132" y="260" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">BlooDet Video Demo</text>
+  <text x="132" y="314" fill="#FFE4EA" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500">Synergistic Bleeding Region and Point Detection</text>
+  <text x="132" y="356" fill="#FFD7DF" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500">in Laparoscopic Surgical Videos</text>
+
+  <text x="132" y="430" fill="#FFF5F7" fill-opacity="0.88" font-family="Arial, Helvetica, sans-serif" font-size="24">Click to watch or download the demo video</text>
+
+  <rect x="132" y="470" width="296" height="76" rx="38" fill="url(#accent)"/>
+  <circle cx="184" cy="508" r="24" fill="#0D0D12" fill-opacity="0.18"/>
+  <path d="M177 494L199 508L177 522V494Z" fill="#FFF8F3"/>
+  <text x="313" y="518" text-anchor="middle" fill="#2B0A12" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Play Demo</text>
+
+  <rect x="824" y="206" width="214" height="214" rx="107" fill="#FFFFFF" fill-opacity="0.1" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="2"/>
+  <circle cx="931" cy="313" r="70" fill="#FFFFFF" fill-opacity="0.16"/>
+  <path d="M902 273L974 313L902 353V273Z" fill="#FFF6F4"/>
+
+  <rect x="794" y="470" width="274" height="46" rx="23" fill="#FFFFFF" fill-opacity="0.08"/>
+  <text x="931" y="499" text-anchor="middle" fill="#FFF5F7" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600">CVPR 2026 • SurgBlood</text>
+</svg>
