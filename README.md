@@ -31,15 +31,18 @@
 </div>
 
 </div>
+
+<div align="center">
+  <a href="https://youtu.be/wueRsI2lZjU"><strong>Watch full BlooDet demo </strong></a>
+</div>
+
 <div align="center">
   <a href="https://youtu.be/wueRsI2lZjU">
     <img src="assets/bloodet-demo-preview.gif" width="640" alt="BlooDet supplementary demo preview" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://youtu.be/wueRsI2lZjU"><strong>Watch the full BlooDet demo </strong></a>
-</div>
+
 
 </div>
 
