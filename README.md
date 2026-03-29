@@ -99,7 +99,7 @@ The visual results of **SOTAs** on **SurgBlood test set**: **[Google](https://dr
 
 <div align="center">
   <a href="assets/Visual_Comp.pdf">
-    <img src="assets/Visual_Comp.png" width="900" alt="Visual comparison" />
+    <img src="assets/Visual_Comp.png" width="760" alt="Visual comparison" />
   </a>
 </div>
 
