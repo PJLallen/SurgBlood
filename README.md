@@ -29,8 +29,6 @@ Laparoscopic Surgical Videos [CVPR 2026]</h1>
   
 </div>
 
-## Supplementary Demo Video
-
 <div align="center">
   <a href="https://youtu.be/wueRsI2lZjU"><strong>Watch the full BlooDet demo on YouTube</strong></a>
 </div>
@@ -39,10 +37,6 @@ Laparoscopic Surgical Videos [CVPR 2026]</h1>
   <a href="https://youtu.be/wueRsI2lZjU">
     <img src="assets/bloodet-demo-preview.gif" width="640" alt="BlooDet supplementary demo preview" />
   </a>
-</div>
-
-<div align="center">
-  Click the GIF preview above to open the full demo video on YouTube.
 </div>
 
 This repo is the official implementation of "[**Synergistic Bleeding Region and Point Detection in Laparoscopic Surgical Videos**](https://arxiv.org/abs/2503.22174)".
