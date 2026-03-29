@@ -1,23 +1,6 @@
 <h1 align="center">Synergistic Bleeding Region and Point Detection  in  <br>
  Laparoscopic Surgical Videos [CVPR 2026]</h1>
 
-</div>
-<div align="center">
-  <a href="https://youtu.be/wueRsI2lZjU">
-    <img src="assets/bloodet-demo-preview.gif" width="640" alt="BlooDet supplementary demo preview" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://youtu.be/wueRsI2lZjU"><strong>Watch the full BlooDet demo </strong></a>
-</div>
-
-<div align="center">
-  Click the GIF preview above to open the full demo video on YouTube.
-</div>
-
-
-
 <div align='center'>
     <a href='https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en' target='_blank'><strong>Jialun Pei</strong></a><sup> 1</sup>,&thinsp;
     <a href='https://scholar.google.com/citations?hl=zh-CN&user=lvx5k9cAAAAJ' target='_blank'><strong>Zhangjun Zhou</strong></a><sup> 2</sup>,&thinsp;
@@ -47,17 +30,27 @@
   
 </div>
 
+</div>
+<div align="center">
+  <a href="https://youtu.be/wueRsI2lZjU">
+    <img src="assets/bloodet-demo-preview.gif" width="640" alt="BlooDet supplementary demo preview" />
+  </a>
+</div>
 
+<div align="center">
+  <a href="https://youtu.be/wueRsI2lZjU"><strong>Watch the full BlooDet demo </strong></a>
+</div>
 
+</div>
+
+This repo is the official implementation of "[**Synergistic Bleeding Region and Point Detection in Laparoscopic Surgical Videos**](https://arxiv.org/abs/2503.22174)".
+
+**Contact:** peijialun@gmail.com
 
 <div align="center">
   <img src="assets/Pipeline_v4_page-0001.jpg" width="700" alt="Pipeline_v4" />
 </div>
 
-
-This repo is the official implementation of "[**Synergistic Bleeding Region and Point Detection in Laparoscopic Surgical Videos**](https://arxiv.org/abs/2503.22174)" (___CVPR 2026___).
-
-**Contact:** peijialun@gmail.com
 
 <!--
 # [CVPR][2026] SurgBlood
