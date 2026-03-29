@@ -97,6 +97,12 @@ Official Implementation of CVPR2026 paper "Synergistic Bleeding Region and Point
 ## Visualization results &#x26A1;
 The visual results of **SOTAs** on **SurgBlood test set**: **[Google](https://drive.google.com/file/d/1XrC6q8BftPLTIq8gLe7YT0uyQbWqRmxI/view?usp=sharing).**
 
+<div align="center">
+  <a href="assets/Visual_Comp.pdf">
+    <img src="assets/Visual_Comp.png" width="900" alt="Visual comparison" />
+  </a>
+</div>
+
 
 ## Usage
 ### Train&Test
