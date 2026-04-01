@@ -133,13 +133,11 @@ The visual results of **SOTAs** on **SurgBlood test set**: **[Google](https://dr
 If this helps you, please cite this work:
 
 ```
-@misc{pei2025synergisticbleedingregionpoint,
-      title={Synergistic Bleeding Region and Point Detection in Laparoscopic Surgical Videos}, 
-      author={Jialun Pei and Zhangjun Zhou and Diandian Guo and Zhixi Li and Jing Qin and Bo Du and Pheng-Ann Heng},
-      year={2025},
-      eprint={2503.22174},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.22174}, 
+@inproceedings{pei2025synergistic,
+  title={Synergistic bleeding region and point detection in laparoscopic surgical videos},
+  author={Pei, Jialun and Zhou, Zhangjun and Guo, Diandian and Li, Zhixi and Qin, Jing and Du, Bo and Heng, Pheng-Ann},
+  booktitle={IEEE CVPR},
+  pages={1--10},
+  year={2026},
 }
 ```
