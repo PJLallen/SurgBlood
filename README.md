@@ -66,7 +66,7 @@ Official Implementation of CVPR2026 paper "Synergistic Bleeding Region and Point
 ## Dataset preparation :fire:
 ### Download the datasets and annotation files
 
-- SurgBlood: Coming by June 2026.
+- SurgBlood test set: **[SharePoint](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155229775_link_cuhk_edu_hk/IQDeTd4J_rAjQ5Pzr919Q8n5AXHcREeNJ4g0petGmL09rJo?e=NbYgxd)**.
 
  ### Register datasets
 1. Download the datasets and put them in the same folder. To match the folder names in the dataset mappers, it is better not to rename them. The structure should be:
