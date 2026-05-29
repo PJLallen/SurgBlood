@@ -21,7 +21,7 @@ Laparoscopic Surgical Videos [CVPR 2026]</h1>
   <a href='https://arxiv.org/abs/2503.22174'><img src='https://img.shields.io/badge/Conference-Paper-red'></a>&ensp; 
   <a href='https://arxiv.org/abs/2503.22174'><img src='https://img.shields.io/badge/arXiv-Paper-red'></a>&ensp; 
   <a href='https://youtu.be/wueRsI2lZjU'><img src='https://img.shields.io/badge/Demo-YouTube-red'></a>&ensp; 
-  <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-yellow'></a>&ensp; 
+  <a href='LICENSE'><img src='https://img.shields.io/badge/License-Research%20Only%20%7C%20NC%2FND-blue'></a>&ensp;
   <!--
   <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF-Space-blue'></a>&ensp; 
   <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF-Model-blue'></a>&ensp; 
@@ -42,6 +42,12 @@ Laparoscopic Surgical Videos [CVPR 2026]</h1>
 This repo is the official implementation of "[**Synergistic Bleeding Region and Point Detection in Laparoscopic Surgical Videos**](https://arxiv.org/abs/2503.22174)".
 
 **Contact:** peijialun@gmail.com
+
+## License and use restrictions
+
+This repository is released for academic and research use only. Commercial use is not permitted.
+
+Redistribution of modified versions, derivative works, re-packaged releases, or re-defined versions of this project is not permitted without prior written permission from the copyright holder. Please see [LICENSE](LICENSE) for the full terms.
 
 
 <!--

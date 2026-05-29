@@ -1,21 +1,68 @@
-MIT License
+SurgBlood Research-Only Non-Commercial No-Derivatives License
 
 Copyright (c) 2026 Jialun Pei
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license applies to the SurgBlood repository and its associated
+documentation, code, models, checkpoints, data annotations, and other materials
+provided by the copyright holder, except where a separate third-party license is
+explicitly stated.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Grant of Permission
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Permission is granted to download, access, reproduce, and use the licensed
+materials solely for academic, educational, and non-commercial research
+purposes.
+
+2. Non-Commercial Restriction
+
+Commercial use is strictly prohibited. Prohibited commercial use includes, but
+is not limited to, using the licensed materials in commercial products,
+commercial services, paid consulting, contract research, clinical products,
+medical devices, software-as-a-service offerings, revenue-generating platforms,
+or any activity intended for commercial advantage or monetary compensation.
+
+3. No Derivative Redistribution or Re-Definition
+
+You may not publish, distribute, sublicense, sell, rent, host, re-package,
+release, or otherwise make available any modified version, derivative work,
+adaptation, translated version, re-trained version, fine-tuned version,
+re-labeled version, or re-defined version of the licensed materials without
+prior written permission from the copyright holder.
+
+You may not present a modified, adapted, re-packaged, or re-defined version of
+the licensed materials as a new dataset, model, benchmark, project, product, or
+release without prior written permission from the copyright holder.
+
+4. Attribution and Notices
+
+Any permitted use must retain this license notice, copyright notice, citation
+information, and any attribution notices included with the licensed materials.
+Academic publications or research outputs using the licensed materials should
+cite the associated SurgBlood paper.
+
+5. Third-Party Materials
+
+Some components included in or referenced by this repository may be subject to
+separate third-party licenses. Those components remain governed by their
+respective licenses. Nothing in this license grants rights broader than those
+third-party licenses permit.
+
+6. No Warranty
+
+THE LICENSED MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, OR
+SUITABILITY FOR ANY MEDICAL, CLINICAL, OR COMMERCIAL USE.
+
+7. Limitation of Liability
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE LICENSED MATERIALS OR
+THE USE OF OR OTHER DEALINGS IN THE LICENSED MATERIALS.
+
+8. Permission Requests
+
+Requests for commercial use, redistribution of modified versions, derivative
+releases, or any use not expressly permitted by this license must be directed to
+the copyright holder for prior written permission.
