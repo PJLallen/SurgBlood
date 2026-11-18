@@ -43,6 +43,12 @@ This repo is the official implementation of "[**Synergistic Bleeding Region and 
 
 **Contact:** peijialun@gmail.com
 
+
+## 📢 News
+
+- **2026-11-18 — 🎉 Dataset Released!** Our SurgBlood dataset is now publicly available! Researchers and developers are welcome to explore and use it for their research. Please refer to the dataset download instructions below for access.
+
+
 ## License and use restrictions
 
 This repository is released for academic and research use only. Commercial use is not permitted.
